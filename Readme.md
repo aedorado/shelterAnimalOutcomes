@@ -14,9 +14,11 @@ The suggested reading order would be:
 1. [Visualization][visualization]
 2. [Data cleaning][cleaning]
 3. [Random forests][rndmForest]
+4. [Logistic Regression][logisticRegression]
 
 [Kaggle]: https://www.kaggle.com
 [comp]: https://www.kaggle.com/c/shelter-animal-outcomes
 [visualization]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-Visualization.ipynb
 [cleaning]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-dataCleaning.ipynb
 [rndmForest]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-Random-Forests.ipynb
+[logisticRegression]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-Logistic-Regression.ipynb
