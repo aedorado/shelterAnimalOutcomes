@@ -15,10 +15,13 @@ The suggested reading order would be:
 2. [Data cleaning][cleaning]
 3. [Random forests][rndmForest]
 4. [Logistic Regression][logisticRegression]
-
+5. [Naive Bayes][naiveBayes]
+6. [Decision Tree][decisionTree]
 [Kaggle]: https://www.kaggle.com
 [comp]: https://www.kaggle.com/c/shelter-animal-outcomes
 [visualization]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-Visualization.ipynb
 [cleaning]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-dataCleaning.ipynb
 [rndmForest]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-Random-Forests.ipynb
 [logisticRegression]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-Logistic-Regression.ipynb
+[naiveBayes]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-Naive-Bayes.ipynb
+[decisioTree]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-Decision-Tree.ipynb
