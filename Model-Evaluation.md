@@ -21,7 +21,7 @@ I have not taken breed, color and time of outcome.
 | Logistic Regression| -0.97484274 | -0.96763943 | -0.9647996  | 0.96547    |
 | Naive Bayes        | -1.22157213 | -1.26583667 | -1.20188548 | 1.21500    |
 | Decision Tree      | -1.38918722 | -1.45546753 | -1.34826891 | 1.24844    |
-
+| SVM                | -0.94089612 | -0.94775816 | -0.92365895 | 0.93214    |
 
 
 [logLoss]: https://www.kaggle.com/wiki/LogarithmicLoss
