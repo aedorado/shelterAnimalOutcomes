@@ -21,6 +21,7 @@ The suggested reading order would be:
 5. [Naive Bayes][naiveBayes]
 6. [Decision Tree][decisionTree]
 7. [SVM][svm]
+8. [KNN][knn]
 
 You can look at the model evaluations [here][modEval]
 
@@ -39,5 +40,6 @@ You can look at the model evaluations [here][modEval]
 [naiveBayes]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-Naive-Bayes.ipynb
 [decisionTree]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-Decision-Tree.ipynb
 [svm]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-SVM.ipynb
+[knn]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-KNN.ipynb
 
 [modEval]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/Model-Evaluation.md
