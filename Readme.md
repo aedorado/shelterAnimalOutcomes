@@ -1,6 +1,6 @@
 Readme
 ======
-[![license]https://img.shields.io/badge/license-MIT%20License-blue.svg](https://opensource.org/licenses/MIT)
+[![license](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://opensource.org/licenses/MIT)
 This repository contains my attempts at learning various techniques and methods
 to solve a ML classification problem. The problem chosen is a competition from [Kaggle][kaggle],
 the [Shelter Animal Outcomes][comp]. 
@@ -25,6 +25,7 @@ The suggested reading order would be:
 9. [ExtraTreesClassifier][etc]
 10. [AdaBoost][adaBoost]
 11. [GradientTreeBoosting][gradientBoost]
+12. [Bagging][bagging]
 
 You can look at the model evaluations [here][modEval]
 
@@ -47,5 +48,6 @@ You can look at the model evaluations [here][modEval]
 [etc]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-ExtraTreesClassifier.ipynb
 [adaBoost]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-AdaBoost.ipynb
 [gradientBoost]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-GradientTreeBoosting.ipynb
+[bagging]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/notebook/shelterAnimalOutcomes-Bagging.ipynb
 
 [modEval]: https://github.com/krispingal/shelterAnimalOutcomes/blob/master/Model-Evaluation.md
