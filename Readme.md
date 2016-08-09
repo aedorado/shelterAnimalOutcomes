@@ -1,6 +1,8 @@
 Readme
 ======
+
 [![license](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://opensource.org/licenses/MIT)
+
 This repository contains my attempts at learning various techniques and methods
 to solve a ML classification problem. The problem chosen is a competition from [Kaggle][kaggle],
 the [Shelter Animal Outcomes][comp]. 
