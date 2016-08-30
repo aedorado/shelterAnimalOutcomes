@@ -1,7 +1,34 @@
 Model Evaluation
 ================
 
+V 3
+---
+
+Final metrics
+
+
+|Model                      | Rank 1 score | test score | timeit     |
+| ------------------------- |:------------:|:----------:|:----------:|
+| Random Forests            | -1.008       | 0.94800    | 4943.46 s  |
+| Logistic Regression       | -1.020       | 1.01616    | 41.07 s    |
+| Naive Bayes               | -1.068       | 1.06087    | 0.59 s     |
+| Decision Tree             | -0.954       | 0.95053    | 518.45 s   |
+| KNN                       | -1.537       | 1.45483    | 169.49 s   |
+| ExtraTreesClassifier      | -1.023       | 1.02850    | 3924.89 s  |
+| AdaBoost                  | -1.045       | 1.03726    | 1276.17 s  |
+| GradientTreeBoosting      | -0.945       | 0.93574    | 9553.61 s  |
+
+
 The metric used for model evaluation is [log loss][logLoss].
+V 2
+---
+After this [post](data_leak) that talked about the data leakage in the model, I will be 
+using features that can be obtained when an animal is first brought to shelter. Hwnce I will
+no longer be using age of the animal, as the dataset actually contains age of the animal on 
+outcome. However I shall be continuing to use the gender and also the fact that they are 
+spayed/neutered. Reason being that most animal shelters and ASPCA in particular allows 
+requests to neuter/spay an intact animal once if they want. Also there are many animals 
+that reach the shelter already spayed/neutered. 
 
 V 1
 ---
